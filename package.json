@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.14.2",
+    "y-websocket": "^1.5.0",
+    "yjs": "^13.6.8"
+  },
+  "name": "serveur-yjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./node_modules/y-websocket/bin/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
